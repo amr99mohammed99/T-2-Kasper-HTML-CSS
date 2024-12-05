@@ -1,5 +1,5 @@
 # T-2-Kasper-HTML-CSS
-HTML and CSS Template 1
+HTML and CSS Template 2
 
 ## Demo
 https://amr99mohammed99.github.io/T-2-Kasper-HTML-CSS/
